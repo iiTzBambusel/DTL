@@ -1,9 +1,6 @@
 /*
  * Aufgabe_4_2.S
  *
- *  Created on: <09.12.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Addition von zwei 8 stelligen BCD Zahlen
  */
 .text /* Specify that code goes in text segment */

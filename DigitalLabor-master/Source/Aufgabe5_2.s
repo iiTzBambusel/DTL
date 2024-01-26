@@ -1,9 +1,6 @@
 /*
  * Aufgabe_5_2.S
  *
- *  Created on: <19.12.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Permanentes Lauflicht
  */
 .text /* Specify that code goes in text segment */

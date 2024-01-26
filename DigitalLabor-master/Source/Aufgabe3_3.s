@@ -1,9 +1,6 @@
 /*
  * Aufgabe_3_3.S
  *
- *  Created on: <15.11.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Unterprogrammaufruf  mit Parametern
  */
 .text /* Specify that code goes in text segment */

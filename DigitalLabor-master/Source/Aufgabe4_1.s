@@ -1,9 +1,6 @@
 /*
  * Aufgabe_4_1.S
  *
- *  Created on: <04.12.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Verwendung von Stack
  */
 .text /* Specify that code goes in text segment */

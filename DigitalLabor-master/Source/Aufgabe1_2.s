@@ -1,9 +1,6 @@
 /*
  * Aufgabe_1_2.S
  *
- *  Created on: <02.10.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Addition von Zahlen
  */
 .text /* Specify that code goes in text segment */

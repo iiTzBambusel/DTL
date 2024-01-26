@@ -1,9 +1,6 @@
 /*
  * Aufgabe_3_4.S
  *
- *  Created on: <20.11.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Unterprogrammaufruf mit Übergebe von mehreren Parametern - Division
  */
 .text /* Specify that code goes in text segment */

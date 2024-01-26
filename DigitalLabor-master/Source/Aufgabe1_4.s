@@ -1,9 +1,6 @@
 /*
  * Aufgabe_1_4.S
  *
- *  Created on: <09.10.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Maskenoperationen
  */
 .text /* Specify that code goes in text segment */

@@ -1,9 +1,6 @@
 /*
  * Aufgabe_2_2.S
  *
- *  Created on: <19.10.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Multiplikation
  */
 .text /* Specify that code goes in text segment */

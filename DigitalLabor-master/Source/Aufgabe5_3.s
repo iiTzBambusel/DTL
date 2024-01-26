@@ -1,9 +1,6 @@
 /*
  * Aufgabe_5_3.S
  *
- *  Created on: <20.12.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Ein- und Ausgabe über Taster und LEDs
  */
 .text /* Specify that code goes in text segment */

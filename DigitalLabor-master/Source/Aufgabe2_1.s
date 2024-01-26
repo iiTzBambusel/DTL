@@ -1,9 +1,6 @@
 /*
  * Aufgabe_2_1.S
  *
- *  Created on: <16.10.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : 64 Bit Addition
  */
 .text /* Specify that code goes in text segment */

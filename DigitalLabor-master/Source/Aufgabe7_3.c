@@ -1,9 +1,6 @@
 /*
  * Aufgabe_7_3.S
  *
- *  Created on: <14.01.2024>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Umschaltbares Lauflicht
  */
 #include <stdint.h>

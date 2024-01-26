@@ -1,9 +1,6 @@
 /*
  * Aufgabe_1_1.S
  *
- *  Created on: <02.10.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Zahlendarstellung
  */
 .text /* Specify that code goes in text segment */

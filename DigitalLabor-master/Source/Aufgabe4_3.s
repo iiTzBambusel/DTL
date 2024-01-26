@@ -1,9 +1,6 @@
 /*
  * Aufgabe_2_3.S
  *
- *  Created on: <10.12.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Datenstrom Binarisieren
  */
 .text /* Specify that code goes in text segment */

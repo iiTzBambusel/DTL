@@ -1,9 +1,6 @@
 /*
  * Aufgabe_5_1.S
  *
- *  Created on: <18.12.2023>
- *      Author: <Torben Lamers>
- *
  *	Aufgabe : Fortschrittsanzeige
  */
 .text /* Specify that code goes in text segment */
